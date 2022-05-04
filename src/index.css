@@ -29,6 +29,15 @@ body {
   padding: 15px;
 }
 
+.col-sm-3 {
+  font-family: 'Arvo', serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Radio Canada', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bolder;
+  font-size: x-large;
+}
+
 
 .item {
   padding: 10px;
@@ -41,6 +50,28 @@ body {
   justify-content: space-between;
 }
 
+.head header {
+  font-family: 'Arvo', serif;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Radio Canada', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bolder;
+}
+
+.answer {
+  font-family: 'Arvo', serif;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Radio Canada', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500;
+  padding: 5px;
+  text-align: center;
+}
+
 .head button {
   border: 0px;
+  background: none;
 }

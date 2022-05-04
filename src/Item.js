@@ -11,7 +11,9 @@ function Item({question, ans}) {
                     <header> {question} </header>
                     <button onClick={() => setShowInfo(!showInfo)}>{showInfo ? < BiChevronUp /> : < BiChevronDown />}</button>
                 </div>
-                {showInfo && <p>{ans}</p>}
+                <div className='answer'>
+                    {showInfo && <p className='ans'>{ans}</p>}
+                </div>
                 
             </div>
         </main>

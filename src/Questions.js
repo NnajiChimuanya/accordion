@@ -21,7 +21,7 @@ const Question = [
     },
     {
         id : 5,
-        question : "After I have completed a credit application, how long will it take before I receive my CheckNet username and password?",
+        question : "How long will it take before I receive my CheckNet username and password?",
         ans : "It will take approximately 3 to 5 business days for Checkpoint Systems to process your credit application and assign a username and password.  Your username and password will arrive at the email address you provided during the application process."
     }
 ]
